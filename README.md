@@ -20,7 +20,7 @@ testing dataset, the VGG16 model achieved an accuracy of 96.68% and an F1 score 
 <img src="https://github.com/saquib4u/DFU-Classification/blob/main/DFU%20Flowchart.png" alt="Flowchart for Implementation">
 <br><br>
 
-* [Google Colab Notebook of ResNet121, DenseNet50 and InceptionV3 Implementation](https://colab.research.google.com/drive/10FIBxpGV-OBLUzJMhZZBW1BnG3W-mFg6?usp=sharing)
-* [Google Colab Notebook of MobileNet and VGG16 Implementation](https://colab.research.google.com/drive/1k5uTwY34SWR67Jrz5b514NzmAUS7KWVw?usp=sharing)
+* **ResNet121, DenseNet50 and InceptionV3 Implementation on [Google Colab Notebook](https://colab.research.google.com/drive/10FIBxpGV-OBLUzJMhZZBW1BnG3W-mFg6?usp=sharing) and [Jupyter Notebook](https://github.com/saquib4u/DFU-Classification/blob/main/DenseNet_ResNet_InceptionV3.ipynb)**
+* **MobileNet and VGG16 Implementation on [Google Colab Notebook](https://colab.research.google.com/drive/1k5uTwY34SWR67Jrz5b514NzmAUS7KWVw?usp=sharing) and [Jupyter Notebook](https://github.com/saquib4u/DFU-Classification/blob/main/MobileNet_VGG16.ipynb)**
 * [All five architecture implemented in single Google Colab File](https://colab.research.google.com/drive/1nvpexeoeIWdpJuiPswsFbBeyxDKrpS4z?usp=sharing)
-* [Research Paper](https://doi.org/10.1007/978-981-99-1983-3_35)
+* **Read Research Paper [here.](https://doi.org/10.1007/978-981-99-1983-3_35)**
