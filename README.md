@@ -15,9 +15,9 @@ the models.
 Among the architectures tested, the VGG16 model achieved the highest accuracy and F1 score. On the
 testing dataset, the VGG16 model achieved an accuracy of 96.68% and an F1 score of 0.96.
 <br><br></p>
-![Flowchart for Implementation](/assets/images/https://github.com/saquib4u/DFU-Classification/blob/main/DFU%20Flowchart.png)
-<br>
-![Flowchart for Implementation](./DFU-Classification/DFU Flowchart.png)
+
+### Flowchart: ###
+<img src="https://github.com/saquib4u/DFU-Classification/blob/main/DFU%20Flowchart.png" alt="Flowchart for Implementation">
 <br><br>
 
 * [Google Colab Notebook of ResNet121, DenseNet50 and InceptionV3 Implementation](https://colab.research.google.com/drive/10FIBxpGV-OBLUzJMhZZBW1BnG3W-mFg6?usp=sharing)
